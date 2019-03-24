@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1553431047 source:c:\users\fane\desktop\proiect po\main.cpp
+	<iostream>
+	"Node.h"
+	"AVL.h"
+
+1553245023 c:\users\fane\desktop\proiect po\node.h
+	<iostream>
+
+1553461154 c:\users\fane\desktop\proiect po\avl.h
+	"Node.h"
+
+1553461154 source:c:\users\fane\desktop\proiect po\avl.cpp
+	"AVL.h"
+
+1553163645 source:c:\users\fane\desktop\proiect po\node.cpp
+	"Node.h"
+
+1553436371 source:c:\users\robert\desktop\proiect po\avl.cpp
+	"AVL.h"
+
+1553436500 c:\users\robert\desktop\proiect po\avl.h
+	"Node.h"
+
+1553245023 c:\users\robert\desktop\proiect po\node.h
+	<iostream>
+
+1553431047 source:c:\users\robert\desktop\proiect po\main.cpp
+	<iostream>
+	"Node.h"
+	"AVL.h"
+
+1553163645 source:c:\users\robert\desktop\proiect po\node.cpp
+	"Node.h"
+
